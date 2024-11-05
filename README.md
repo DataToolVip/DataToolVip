@@ -1,6 +1,5 @@
 <h1>DataTool-Video-Download-Tools</h1>
-<p>🗳<b> Click to use for free </b></p>
-<a href = "https://www.datatool.vip" target = "_blank" > Click to use DatToolVip for free </a>
+<p>🗳<b><a href = "https://www.datatool.vip" target = "_blank" > Click to use DatToolVip for free</a> </b></p>
 <p>🔥 <b>YouTube Video Downloader</b></p>
 <img src="static/youtube.png" alt="youtube video download">
 <p>🔥 <b>TikTok Video Free Download</b></p>
