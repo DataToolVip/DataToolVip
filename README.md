@@ -7,7 +7,7 @@
 <p>🔥 <b>DouYin Video Downloader</b></p>
 
 <h1>🗳 Go To Use </h1>
-< a href = "https://www.datatool.vip" target = "_blank" > click the link to DataToolVip < / a >
+<a href = "https://www.datatool.vip" target = "_blank" > click the link to DataToolVip </a>
 
 
 
