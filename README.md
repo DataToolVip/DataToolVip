@@ -3,7 +3,9 @@
 <p>🔥 <b>YouTube Video Downloader</b></p>
 <img src="static/youtube.png" alt="youtube video download">
 <p>🔥 <b>TikTok Video Free Download</b></p>
-<img src="static/tiktok.png" alt="youtube video download">
+<img src="static/tiktok.png" alt="TikTok video download">
+<p>🔥 <b>TikTok Photo Free Download</b></p>
+<img src="static/tiktok_photo.png" alt="TikTok Photo download">
 <p>🔥 <b>Instagram Video Free Download</b></p>
 <img src="static/ins.png" alt="instagram video download">
 <p>🔥 <b>Twitter Video Free Download</b></p>
